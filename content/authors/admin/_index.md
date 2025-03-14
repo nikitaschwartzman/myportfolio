@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Samuel Phiri
+title: Nikita Schwartzman
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Samuel
-last_name: Phiri
+first_name: Nikita
+last_name: Schwartzman
 
 # Status emoji
 status:
