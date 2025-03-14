@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Nikita Schwartzman
+title: Samuel Phiri
 
 # Name pronunciation (optional)
-#name_pronunciation: Nikita Schwartzman
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Nikita
-last_name: Schwartzman
+first_name: Samuel
+last_name: Phiri
 
 # Status emoji
 status:
@@ -20,24 +20,31 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Match and Partnerships Coordinator
+role: Graduate Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Migration and Refugee Services USCCB
-    url: https://www.usccb.org/committees/migration/migration-and-refugee-services
+  - name: Duke Quantum Center
+    url: https://brownlab.pratt.duke.edu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:revatischwartzman@gmail.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/nikita-schwartzman-50644519b/
-
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
@@ -45,10 +52,10 @@ interests:
   - Information Retrieval
 
 education:
-  - area: Religion (Sartorial Politics)
+  - area: PhD Quantum Informantion Science
     institution: Duke University
-    date_start: 2021-08
-    date_end: 2023-05
+    date_start: 2019-08-17
+    date_end: 2025-06-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -139,7 +146,8 @@ languages:
     percent: 100
   - name: Chinese
     percent: 75
-
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -175,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter.
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
