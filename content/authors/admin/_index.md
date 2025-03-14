@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/nikita-schwartzman-50644519b/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
