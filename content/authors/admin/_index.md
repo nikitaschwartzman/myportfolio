@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Graduate Research Assistant
+role: Match and Partnerships Coordinator
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Duke Quantum Center
+  - name: Migration and Refugee Services USCCB
     url: https://brownlab.pratt.duke.edu
 
 # Social network links
