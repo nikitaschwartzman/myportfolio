@@ -55,10 +55,10 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
 
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Philosophy,Politics and the Public
+    institution: Xavier University
+    date_start: 2017-08-01
+    date_end: 2021-05-31
     summary: |
       GPA: 3.4/4.0
       
