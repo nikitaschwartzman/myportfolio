@@ -57,11 +57,11 @@ education:
       url: 'https://example.com'
 
   - area: Xavier University - BA
-    institution: Philosophy, Politics and 
+    institution: Philosophy, Politics and the Public
     date_start: 2017-08-01
     date_end: 2021-05-31
     summary: |
-      GPA: 3.4/4.0
+
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
