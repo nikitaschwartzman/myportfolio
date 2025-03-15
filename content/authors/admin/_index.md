@@ -46,7 +46,7 @@ interests:
   - Community Engagement 
 
 education:
-  - area: Duke University (MA)
+  - area: Duke University - MA
     institution: Religion (Sartorial Politics)
     date_start: 2021-08-17
     date_end: 2023-05-05
@@ -56,8 +56,8 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
 
-  - area: Philosophy,Politics and the Public
-    institution: Xavier University
+  - area: Xavier University - BA
+    institution: Philosophy, Politics and 
     date_start: 2017-08-01
     date_end: 2021-05-31
     summary: |
