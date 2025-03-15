@@ -45,7 +45,7 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Quantum Informantion Science
+  - area: PhD Quantum Informantion Science (ECE)
     institution: Duke University
     date_start: 2019-08-17
     date_end: 2025-06-30
