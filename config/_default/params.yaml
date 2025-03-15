@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Nikita Schwartzman. This work is licensed under {license}'
+    notice: '© {year} Nikita Schwartzman'
     license:
       enable: true
       allow_derivatives: false
