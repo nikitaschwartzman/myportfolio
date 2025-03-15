@@ -167,4 +167,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an M.A. graduate from Duke University, with research focused on the intersection of gender dynamics, colonial theories, and religious law, particularly in Islamic contexts. Professionally, I have extensive experience in volunteer coordination, gender-based violence prevention, and survivor advocacy, having worked with organizations like Church World Service, the Duke Women's Center, and Women Helping Women. My work integrates my academic insights with hands-on efforts to promote gender equality, community support, and social justice.
