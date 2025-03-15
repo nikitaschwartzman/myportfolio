@@ -83,7 +83,7 @@ work:
     company_name: Church World Service
     company_url: ''
     company_logo: ''
-    date_start: 2023-03-012
+    date_start: 2023-03-12
     date_end: 2024-10-08
     summary: |
       Responsibilities include:
