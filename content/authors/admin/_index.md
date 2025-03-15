@@ -46,8 +46,8 @@ interests:
   - Community Engagement 
 
 education:
-  - area: Religion (Sartorial Politics)
-    institution: Duke University
+  - area: Duke University (MA)
+    institution: Religion (Sartorial Politics)
     date_start: 2021-08-17
     date_end: 2023-05-05
     summary: |
