@@ -25,7 +25,7 @@ role: Match and Partnerships Coordinator
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Migration and Refugee Services USCCB
-    url: https://brownlab.pratt.duke.edu
+   
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
