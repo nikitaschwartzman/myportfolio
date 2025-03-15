@@ -40,9 +40,9 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Social Justice and Advocacy
+  - Policy Compliance and Program Management
+  - Community Engagement and Education
 
 education:
   - area: Religion (Sartorial Politics)
