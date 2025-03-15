@@ -167,4 +167,4 @@ awards:
 
 ## About Me
 
-I am an M.A. graduate from Duke University, with research focused on the intersection of gender dynamics, colonial theories, and religious law, particularly in Islamic contexts. Professionally, I have extensive experience in volunteer coordination, gender-based violence prevention, and survivor advocacy, having worked with organizations like Church World Service, the Duke Women's Center, and Women Helping Women. My work integrates my academic insights with hands-on efforts to promote gender equality, community support, and social justice.
+I am an M.A. graduate from Duke University, with research focused on the intersection of gender dynamics, colonial theories, and religious law, particularly in Islamic contexts. Professionally, I have extensive experience in volunteer coordination, gender-based violence prevention, and survivor advocacy. My work integrates my academic insights with hands-on efforts to promote gender equality, community support, and social justice.
