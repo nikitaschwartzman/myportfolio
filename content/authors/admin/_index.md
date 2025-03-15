@@ -186,31 +186,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Religion and Public Life Graduate Fellow
+    url: https://kenan.ethics.duke.edu/2022-2023-religions-and-public-life-graduate-fellows-announced/
+    date: '2022-10-25'
+    awarder: Kenan Institute for Ethics, Duke University
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      The Religions and Public Life program at the Kenan Institute for Ethics examines the impact of religions within historical and cultural contexts, focusing on how they shape the lives of their followers, interact across time and space, and contribute to the formation of public institutions. This year, twelve graduate fellows from Duke and UNC-Chapel Hill have been selected to join an interdisciplinary group that will explore the role of religion in contemporary social and political issues. The theme for this year is "Religion, Peace and War," in response to global changes in 2022.
+
+      Professor Malachi Hacohen, reflecting on the group's focus, states, “In an era where borders are closing and walls are being built, this interdisciplinary graduate student group is offering a model of collaboration for the world. By bringing together students from Divinity and the Graduate School, supported by the Kenan Institute for Ethics, the Center for Jewish Studies, Duke Islamic Studies Center, and Duke University Middle East Studies Center, graduate students studying various regions will examine the connections between immigration and religion, looking for religious pathways to rebuild human life.” Throughout the academic year, the group will discuss and develop their individual projects, supporting one another and creating opportunities for collaboration. At the end of the fellowship, their work will be published on the Religions and Public Life website.
 ---
 
 ## About Me
