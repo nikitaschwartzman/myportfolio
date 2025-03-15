@@ -45,10 +45,10 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Quantum Informantion Science
+  - area: Religion (Sartorial Politics)
     institution: Duke University
-    date_start: 2019-08-17
-    date_end: 2025-06-30
+    date_start: 2021-08
+    date_end: 2023-06
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
