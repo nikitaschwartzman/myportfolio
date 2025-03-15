@@ -79,17 +79,18 @@ work:
       -  Ensure regulatory compliance of affiliate networks with respect to treatment of federal funds, cash, and contributions.
       - Provide advice and oversight for local service providers related to matching and partnerships issue affecting programs.
       - Coordinate compile regulatory funding report to Grants and Administration Team.
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Volunteer Coordinator
+    company_name: Church World Service
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-03-012
+    date_end: 2024-10-08
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed and implemented recruitment/education programs for community partners to support clients and ensure regulatory compliance of activities.
+      - Revised and implemented strategies to enhance accuracy and compliance of program data and systems.
+      - Instituted and managed program adoption of digital platforms to increase efficiency and legal compliance measures.
+      - Managed strategic relations with local organizations and stakeholders through direct contact and educational engagements
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
