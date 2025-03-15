@@ -41,8 +41,9 @@ profiles:
 
 interests:
   - Social Justice and Advocacy
-  - Policy Compliance and Program Management
-  - Community Engagement and Education
+  - Policy Compliance
+  - Program Management
+  - Community Engagement 
 
 education:
   - area: Religion (Sartorial Politics)
