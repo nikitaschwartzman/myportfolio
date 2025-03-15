@@ -77,8 +77,8 @@ work:
     summary: |2-
       Responsibilities include:
       -  Ensure regulatory compliance of affiliate networks with respect to treatment of federal funds, cash, and contributions.
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Provide advice and oversight for local service providers related to matching and partnerships issue affecting programs.
+      - Coordinate compile regulatory funding report to Grants and Administration Team.
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
