@@ -76,7 +76,7 @@ work:
     date_end: '2025-03-28'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      -  Ensure regulatory compliance of affiliate networks with respect to treatment of federal funds, cash, and contributions.
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
