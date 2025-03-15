@@ -88,8 +88,9 @@ work:
     summary: |
       Responsibilities include:
       - Developed and implemented recruitment/education programs for community partners to support clients and ensure regulatory compliance of activities.
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Revised and implemented strategies to enhance accuracy and compliance of program data and systems.
+      - Instituted and managed program adoption of digital platforms to increase efficiency and legal compliance measures.
+      - Managed strategic relations with local organizations and stakeholders through direct contact and educational engagements.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
