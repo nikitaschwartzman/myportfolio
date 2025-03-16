@@ -114,18 +114,18 @@ work:
       - Provided on-call intervention, advocacy, and consultation for survivors of domestic violence and sexual assault.
       - Offered resource referrals to emergency shelters, housing programs, and social services to support suvivors in crisis. 
       - Connected individuals with mental health services ensuring access to comprehensive care and support.
-  - position: Volunteer Coordinator
-    company_name: Church World Service
+  - position: Research Intern
+    company_name: Immigrant and Refugee Law Center
     company_url: ''
     company_logo: ''
-    date_start: 2023-03-12
-    date_end: 2024-10-08
+    date_start: 2019-01-18
+    date_end: 2019-05-08
     summary: |
       Responsibilities include:
-      - Developed and implemented recruitment/education programs for community partners to support clients and ensure regulatory compliance of activities.
-      - Revised and implemented strategies to enhance accuracy and compliance of program data and systems.
-      - Instituted and managed program adoption of digital platforms to increase efficiency and legal compliance measures.
-      - Managed strategic relations with local organizations and stakeholders through direct contact and educational engagements.
+      - Conducted legal research on visa and naturalization applications.
+      - Investigated gang-related issues in Honudras, Guatemala, and El Salvador.
+      - Analyzed gender-based violence data in gang-controlled territories.
+      - Assisted in client interviews to gather relevant case information.
   - position: Volunteer Coordinator
     company_name: Church World Service
     company_url: ''
