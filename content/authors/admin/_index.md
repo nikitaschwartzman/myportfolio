@@ -91,18 +91,18 @@ work:
       - Revised and implemented strategies to enhance accuracy and compliance of program data and systems.
       - Instituted and managed program adoption of digital platforms to increase efficiency and legal compliance measures.
       - Managed strategic relations with local organizations and stakeholders through direct contact and educational engagements.
-  - position: Volunteer Coordinator
-    company_name: Church World Service
+  - position: Teaching Assistant
+    company_name: Duke University
     company_url: ''
     company_logo: ''
-    date_start: 2023-03-12
-    date_end: 2024-10-08
+    date_start: 2022-01-12
+    date_end: 2023-05-08
     summary: |
       Responsibilities include:
-      - Developed and implemented recruitment/education programs for community partners to support clients and ensure regulatory compliance of activities.
-      - Revised and implemented strategies to enhance accuracy and compliance of program data and systems.
-      - Instituted and managed program adoption of digital platforms to increase efficiency and legal compliance measures.
-      - Managed strategic relations with local organizations and stakeholders through direct contact and educational engagements.
+      - Assisted with grading, research, and course material preparation for Religious Studies courses.
+      - Delivered academic support to students through in-person and virtual consultations.
+      - Collaborated with faculty to maintain a diverse, inclusive, and effective classroom environment.
+      - Implemented streamlined communication and organizational systems to enhance student engagement.
   - position: Volunteer Coordinator
     company_name: Church World Service
     company_url: ''
