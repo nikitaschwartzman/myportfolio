@@ -68,7 +68,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Matcha and Partnerships Coordinator
+  - position: Match and Partnerships Coordinator
     company_name: Migration and Refugee Services USCCB
     company_url: ''
     company_logo: ''
@@ -103,18 +103,17 @@ work:
       - Delivered academic support to students through in-person and virtual consultations.
       - Collaborated with faculty to maintain a diverse, inclusive, and effective classroom environment.
       - Implemented streamlined communication and organizational systems to enhance student engagement.
-  - position: Volunteer Coordinator
-    company_name: Church World Service
+  - position: Advocate
+    company_name: Women Helping Women
     company_url: ''
     company_logo: ''
-    date_start: 2023-03-12
-    date_end: 2024-10-08
+    date_start: 2020-08-15
+    date_end: 2021-07-25
     summary: |
       Responsibilities include:
-      - Developed and implemented recruitment/education programs for community partners to support clients and ensure regulatory compliance of activities.
-      - Revised and implemented strategies to enhance accuracy and compliance of program data and systems.
-      - Instituted and managed program adoption of digital platforms to increase efficiency and legal compliance measures.
-      - Managed strategic relations with local organizations and stakeholders through direct contact and educational engagements.
+      - Provided on-call intervention, advocacy, and consultation for survivors of domestic violence and sexual assault.
+      - Offered resource referrals to emergency shelters, housing programs, and social services to support suvivors in crisis. 
+      - Connected individuals with mental health services ensuring access to comprehensive care and support.
   - position: Volunteer Coordinator
     company_name: Church World Service
     company_url: ''
