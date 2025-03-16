@@ -126,18 +126,17 @@ work:
       - Investigated gang-related issues in Honudras, Guatemala, and El Salvador.
       - Analyzed gender-based violence data in gang-controlled territories.
       - Assisted in client interviews to gather relevant case information.
-  - position: Volunteer Coordinator
-    company_name: Church World Service
+  - position: Research Intern
+    company_name: Red Cross International Humanitarian Law
     company_url: ''
     company_logo: ''
-    date_start: 2023-03-12
-    date_end: 2024-10-08
+    date_start: 2018-09-12
+    date_end: 2018-12-08
     summary: |
       Responsibilities include:
-      - Developed and implemented recruitment/education programs for community partners to support clients and ensure regulatory compliance of activities.
-      - Revised and implemented strategies to enhance accuracy and compliance of program data and systems.
-      - Instituted and managed program adoption of digital platforms to increase efficiency and legal compliance measures.
-      - Managed strategic relations with local organizations and stakeholders through direct contact and educational engagements.
+      - Compiled and submitted naturalization documentation.
+      - Researched ethnic organizations and refugee support networks in Cincinnati and surrounding counties. 
+      - Contributed to the development and execution of educational seminars.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
